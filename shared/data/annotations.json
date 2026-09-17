@@ -1,0 +1,22 @@
+{
+  "cactus": {
+    "usd_path": "usd/cactus.usd",
+    "colors": ["green", "dark_green"]
+  },
+  "cone": {
+    "usd_path": "usd/cone.usd",
+    "colors": ["orange", "red", "yellow", "white"]
+  },
+  "hydrant": {
+    "usd_path": "usd/hydrant.usd",
+    "colors": ["red", "yellow", "blue"]
+  },
+  "palette": {
+    "usd_path": "usd/palette.usd",
+    "colors": ["brown", "gray", "light_gray"]
+  },
+  "traffic_light": {
+    "usd_path": "usd/traffic_light.usd",
+    "colors": ["red", "yellow", "green", "black", "gray"]
+  }
+}
